@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A83A19D4-6466-4B62-85CA-59117DE4EF54}|..\\ThvLesson2MVC\\ThvLesson2MVC.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson2mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83A19D4-6466-4B62-85CA-59117DE4EF54}|..\\ThvLesson2MVC\\ThvLesson2MVC.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson2mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11FF4AB6-332B-48AE-82E9-006002820207}|ThvLesson02.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11FF4AB6-332B-48AE-82E9-006002820207}|ThvLesson02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson2MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\ThvLesson2MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson2MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\ThvLesson2MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T16:28:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson2MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ThvLesson2MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson2MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\ThvLesson2MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T16:27:06.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T16:24:16.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
