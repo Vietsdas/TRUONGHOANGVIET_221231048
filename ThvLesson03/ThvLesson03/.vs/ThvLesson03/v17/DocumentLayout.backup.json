@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson03\\thvlesson03\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson03\\thvlesson03\\views\\thvproduct\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|solutionrelative:views\\thvproduct\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson03\\thvlesson03\\views\\thvproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|solutionrelative:views\\thvproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson03\\thvlesson03\\controllers\\thvproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|solutionrelative:controllers\\thvproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson03\\thvlesson03\\models\\thvproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|solutionrelative:models\\thvproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson03\\thvlesson03\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson03\\thvlesson03\\controllers\\thvaboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CB7E9E-175C-4A48-9734-BE7F5BF749AD}|ThvLesson03.csproj|solutionrelative:controllers\\thvaboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T09:44:20.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThvProductController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Controllers\\ThvProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ThvProductController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Controllers\\ThvProductController.cs",
+              "RelativeToolTip": "Controllers\\ThvProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:18:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Views\\ThvProduct\\Products.cshtml",
+              "RelativeDocumentMoniker": "Views\\ThvProduct\\Products.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Views\\ThvProduct\\Products.cshtml",
+              "RelativeToolTip": "Views\\ThvProduct\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T09:34:52.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThvProduct.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Models\\ThvProduct.cs",
+              "RelativeDocumentMoniker": "Models\\ThvProduct.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Models\\ThvProduct.cs",
+              "RelativeToolTip": "Models\\ThvProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:16:23.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Views\\ThvProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ThvProduct\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Views\\ThvProduct\\Index.cshtml",
+              "RelativeToolTip": "Views\\ThvProduct\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T09:22:20.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-06T09:12:45.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThvAboutController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Controllers\\ThvAboutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ThvAboutController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson03\\ThvLesson03\\Controllers\\ThvAboutController.cs",
+              "RelativeToolTip": "Controllers\\ThvAboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:03:38.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

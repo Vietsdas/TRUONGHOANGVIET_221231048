@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Thông tin sản phẩm";
+}
+
+<h1>@ViewBag["Title"]</h1>
+<hr/>
+<div class="alert alert-danger">
+    <h2>Lấy từ ViewBag</h2>
+    <p>ID: @ViewBag.productVB.productId</p>
+    <p>Name: @ViewBag.productVB.productName</p>
+    <p>Quantity: @ViewBag.productVB.quantity</p>
+    <p>Price: @ViewBag.productVB.price</p>
+</div>
+@{
+    var product = ViewData["productVD"] as ThvLesson03.Models.ThvProduct;
+}
+<div class="alert alert-info">
+    <h2>Lấy từ ViewData</h2>
+    <p>ID: @ViewBag.productId</p>
+    <p>Name: @ViewBag.productName</p>
+    <p>Quantity: @ViewBag.quantity</p>
+    <p>Price: @ViewBag.price</p>
+</div>
