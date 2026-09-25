@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ThvLesson06Models
+build_property.RootNamespace = ThvLesson06Models
+build_property.ProjectDir = C:\Users\admin\Desktop\UTC.LTW\UTC.K65CNTT2.LTW\ThvLesson06\ThvLesson06Models\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\admin\Desktop\UTC.LTW\UTC.K65CNTT2.LTW\ThvLesson06\ThvLesson06Models
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/Home/ThvAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaHZBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/ThvMember/ThvCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh2TWVtYmVyXFRodkNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/ThvMember/ThvEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh2TWVtYmVyXFRodkVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/ThvMember/ThvGetDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh2TWVtYmVyXFRodkdldERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/ThvMember/ThvIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGh2TWVtYmVyXFRodkluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Desktop/UTC.LTW/UTC.K65CNTT2.LTW/ThvLesson06/ThvLesson06Models/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i83d0o1l6x

@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\controllers\\thvmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:controllers\\thvmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\views\\thvmember\\thvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:views\\thvmember\\thvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\views\\thvmember\\thvedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:views\\thvmember\\thvedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\models\\thvmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:models\\thvmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\views\\thvmember\\thvgetdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:views\\thvmember\\thvgetdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\views\\home\\thvabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:views\\home\\thvabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|c:\\users\\admin\\desktop\\utc.ltw\\utc.k65cntt2.ltw\\thvlesson06\\thvlesson06models\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F9A88D0A-E17F-41CD-857C-501285281483}|ThvLesson06Models.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThvEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\ThvMember\\ThvEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ThvMember\\ThvEdit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\ThvMember\\ThvEdit.cshtml",
+              "RelativeToolTip": "Views\\ThvMember\\ThvEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T15:47:32.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThvCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\ThvMember\\ThvCreate.cshtml",
+              "RelativeDocumentMoniker": "Views\\ThvMember\\ThvCreate.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\ThvMember\\ThvCreate.cshtml",
+              "RelativeToolTip": "Views\\ThvMember\\ThvCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T15:37:03.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThvMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Controllers\\ThvMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ThvMemberController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Controllers\\ThvMemberController.cs",
+              "RelativeToolTip": "Controllers\\ThvMemberController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowFUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:08:51.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThvMember.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Models\\ThvMember.cs",
+              "RelativeDocumentMoniker": "Models\\ThvMember.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Models\\ThvMember.cs",
+              "RelativeToolTip": "Models\\ThvMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T14:55:18.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T15:20:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThvGetDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\ThvMember\\ThvGetDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\ThvMember\\ThvGetDetails.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\ThvMember\\ThvGetDetails.cshtml",
+              "RelativeToolTip": "Views\\ThvMember\\ThvGetDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T15:10:02.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:15:20.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThvAbout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\Home\\ThvAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ThvAbout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\Home\\ThvAbout.cshtml",
+              "RelativeToolTip": "Views\\Home\\ThvAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T14:53:25.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T14:49:21.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UTC.LTW\\UTC.K65CNTT2.LTW\\ThvLesson06\\ThvLesson06Models\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-25T14:49:14.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
