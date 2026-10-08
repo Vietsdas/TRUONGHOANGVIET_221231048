@@ -1,0 +1,59 @@
+﻿@model IEnumerable<ThvLesson07Annotation.Models.ThvMember>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThvUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvcPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TvcEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ThvPhone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThvUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvcPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TvcEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThvPhone)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
